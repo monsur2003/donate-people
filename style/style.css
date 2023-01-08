@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Work Sans', sans-serif;
 }
 /*  primary section  */
 .primary-btn {
@@ -140,7 +141,7 @@ main {
   border: 0px solid rgba(132, 87, 138, 0.897);
   align-items: center;
   text-align: left;
-  height: 200px;
+  height: 250px;
   margin: 20px;
   padding: 30px 30px;
   border-radius: 5px;
